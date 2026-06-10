@@ -24,12 +24,6 @@ Technical support system developed in C# with Windows Forms and MySQL for ticket
 
 ---
 
-## Setup
-
-1. Clone the repository:
-```bash
-
 ## Author
 
 Keilyn Barrantes — [GitHub](https://github.com/keybm24)
-
