@@ -30,6 +30,6 @@ Technical support system developed in C# with Windows Forms and MySQL for ticket
 ```bash
 
 ## Author
-**Keilyn Barrantes Mora**  
-GitHub: https://github.com/keybm24
+
+Keilyn Barrantes — [GitHub](https://github.com/keybm24)
 
