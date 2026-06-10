@@ -1,6 +1,6 @@
 # Technical Support Ticket System
 
-Desktop application built in **C# (Windows Forms)** with **MySQL** for managing technical support tickets efficiently.
+Technical support system developed in C# with Windows Forms and MySQL for ticket management. Includes ticket creation, viewing, filtering, status changes, and deletion, as well as technician management and a dashboard with real-time metrics.
 
 ---
 
