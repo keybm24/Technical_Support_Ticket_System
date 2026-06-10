@@ -24,14 +24,6 @@ Technical support system developed in C# with Windows Forms and MySQL for ticket
 
 ---
 
-### Dashboard
-![Dashboard](capturas/dashboard.png)
-
-### Ticket Management
-![Tickets](capturas/tickets.png)
-
----
-
 ## Setup
 
 1. Clone the repository:
